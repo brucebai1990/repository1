@@ -1,7 +1,4 @@
 dhaljljfhojelfhlihflflhelehlijjk
-第1次修改aaaaaaaa
-第2次修改bbbbbbb
-
-程序员A开始
-测试修改冲突解决
-程序员A结束
+aaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbb
+aaaaaaaaaaaaaaa
